@@ -21,7 +21,7 @@ repository               : "znzhang02/ZN.Zhang"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile.jpg"
   name             : "Zhanning Zhang"
   pronouns         : # example: "he/him/his"  
   bio              : "I'm a senior undergraduate student looking for PhD positions in electricity market and smart grid"
