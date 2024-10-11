@@ -40,6 +40,7 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 Scholarships
 ------
 Li Fushou Siyuan Electric Scholarship _Spring 2024_
+
 Ren Yuan Electric Scholarship _Fall 2023_
 B-class Merit Scholarship _Fall 2023_
 UHV Scholarship _Fall 2022_
