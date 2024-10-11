@@ -41,11 +41,15 @@ Scholarships
 ------
 Li Fushou Siyuan Electric Scholarship
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-_Spring 2024_ <br>
-Ren Yuan Electric Scholarship _Fall 2023_ <br>
-B-class Merit Scholarship _Fall 2023_ <br>
-UHV Scholarship _Fall 2022_ <br>
-B-class Merit Scholarship _Fall 2022_ <br>
+_Spring 2024_
+
+Ren Yuan Electric Scholarship _Fall 2023_
+
+B-class Merit Scholarship _Fall 2023_
+
+UHV Scholarship _Fall 2022_
+
+B-class Merit Scholarship _Fall 2022_
 
 For more info
 ------
