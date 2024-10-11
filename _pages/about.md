@@ -39,12 +39,11 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 
 Scholarships
 ------
-Li Fushou Siyuan Electric Scholarship ;&nbsp;&nbsp _Spring 2024_ <br>
-
+Li Fushou Siyuan Electric Scholarship
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+_Spring 2024_ <br>
 Ren Yuan Electric Scholarship _Fall 2023_ <br>
-
 B-class Merit Scholarship _Fall 2023_ <br>
-
 UHV Scholarship _Fall 2022_ <br>
 B-class Merit Scholarship _Fall 2022_ <br>
 
