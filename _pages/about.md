@@ -60,6 +60,30 @@ B-class Merit Scholarship
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 _Fall 2022_ <br>
 
+## Scholarships
+------
+
+<div style="display: flex; justify-content: space-between;">
+  <span>Li Fushou Siyuan Electric Scholarship</span>
+  <span>Spring 2024</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span>Ren Yuan Electric Scholarship</span>
+  <span>Fall 2023</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span>B-class Merit Scholarship</span>
+  <span>Fall 2023</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span>UHV Scholarship</span>
+  <span>Fall 2022</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span>B-class Merit Scholarship</span>
+  <span>Fall 2022</span>
+</div>
+
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
