@@ -45,8 +45,7 @@ _Spring 2024_
 
 Ren Yuan Electric Scholarship _Fall 2023_
 
-B-class Merit Scholarship _Fall 2023_
-
+B-class Merit Scholarship _Fall 2023_ <br>
 UHV Scholarship _Fall 2022_
 
 B-class Merit Scholarship _Fall 2022_
