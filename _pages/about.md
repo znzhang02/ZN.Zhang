@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior student at Shanghai Jiao Tong University (SJTU), majoring in Electric Power Engineering and Automation, fortunate to be advised by Yang Gao (sjtu) and Qian Ai (sjtu). My research focuses on energy management for electricity market, EV hosting capacity and power system optimization. We aim at intergrating both artificial intelligence and optimization algorithms to power systems for economic, resilient and environmentally friendly dispatch schedule. I'm experienced in Python, C++, MATLAB, LATEX, HTML and STATA.
+I am a senior student at Shanghai Jiao Tong University (SJTU), majoring in Electric Power Engineering and Automation, fortunate to be advised by Yang Gao and Qian Ai. I have also served as a research assistant at Purdue University, under Prof. Junjie Qin's guidance. My research focuses on energy management for electricity market, EV hosting capacity analysis and power system optimization. We aim at intergrating both artificial intelligence and optimization algorithms to power systems for economic, resilient and environmentally friendly dispatch schedule. I'm experienced in Python, C++, MATLAB, LATEX, HTML and STATA.
 
 A data-driven personal website
 ======
