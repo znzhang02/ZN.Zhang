@@ -39,8 +39,10 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 
 Scholarships
 ------
-Li Fushou Siyuan Electric Scholarship<div style="margin-left: 50%; text-align: left;">_Spring 2024_</div>
-
+Li Fushou Siyuan Electric Scholarship  
+<div style="position: relative; left: 50%; transform: translateX(-50%); text-align: center; display: inline-block;">
+  _Spring 2024_
+</div>
 Ren Yuan Electric Scholarship 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
