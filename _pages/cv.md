@@ -11,11 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Purdue University, Indiana, USA
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  _July 2024 ~ Sep. 2024_
+  * Research Assistant, supervised by [Prof. Junjie Qin](https://engineering.purdue.edu/people/junjie.qin.1)
 
-Work experience
+* Shanghai Jiao Tong University, Shanghai, China
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  _Sep. 2021 ~ June 2025 (expected)_
+  * B.E. in Electrical Power Engineering and Automation
+
+
+
+
+Research experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
