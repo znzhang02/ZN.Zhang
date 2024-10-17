@@ -60,6 +60,7 @@ B-class Merit Scholarship
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 _Fall 2022_ <br>
 
-For more info
+Awards
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Chinese Mathematics Competition (CMC) 2^{rd} prize _Fall 2023_
+Chinese Mathematics Competition (CMC) 3^{nd} prize _Fall 2022_
