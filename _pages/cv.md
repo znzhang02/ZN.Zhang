@@ -14,7 +14,7 @@ Education
 * Purdue University, Indiana, USA
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   _July 2024 ~ Sep. 2024_
-  * Research Assistant, supervised by [Prof. Junjie Qin](https://engineering.purdue.edu/people/junjie.qin.1)
+  * Research Assistant, supervised by [_Prof. Junjie Qin_](https://engineering.purdue.edu/people/junjie.qin.1)
 
 * Shanghai Jiao Tong University, Shanghai, China
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
