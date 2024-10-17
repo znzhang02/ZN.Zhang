@@ -62,5 +62,9 @@ _Fall 2022_ <br>
 
 Awards
 ------
-Chinese Mathematics Competition (CMC) 2^{rd} prize _Fall 2023_
-Chinese Mathematics Competition (CMC) 3^{nd} prize _Fall 2022_
+Chinese Mathematics Competition (CMC) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2<sup>nd</sup> prize
+_Fall 2023_ <br>
+Chinese Mathematics Competition (CMC) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+3<sup>rd</sup> prize 
+_Fall 2022_ <br>
