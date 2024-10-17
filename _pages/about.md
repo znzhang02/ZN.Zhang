@@ -39,7 +39,7 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 
 Scholarships
 ------
-Li Fushou Siyuan Electric Scholarship</span>
+Li Fushou Siyuan Electric Scholarship
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 _Spring 2024_ <br>
 Ren Yuan Electric Scholarship 
